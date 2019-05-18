@@ -1,0 +1,9 @@
+Package: host.jacc.eveho
+Name: Eveho
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Export your Sileo tweak list and sources easily.
+Maintainer: jacc
+Author: jacc
+Section: Tweaks
